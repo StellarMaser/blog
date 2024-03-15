@@ -26,11 +26,12 @@
   ],
   "dependencies": {
     "@prisma/client": "^4.16.2",
-    "@remix-run/css-bundle": "^2.8.0",
+    "@remix-run/css-bundle": "^2.8.1",
     "@remix-run/node": "^2.8.0",
     "@remix-run/react": "^2.8.0",
     "@remix-run/serve": "^2.8.0",
     "bcryptjs": "^2.4.3",
+    "flowbite": "^2.3.0",
     "isbot": "^3.7.0",
     "marked": "^4.3.0",
     "react": "^18.2.0",
